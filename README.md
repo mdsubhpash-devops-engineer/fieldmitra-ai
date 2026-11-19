@@ -1,5 +1,24 @@
-﻿# FieldMitra AI
-A small app to help field officers. Officer asks in Telugu, app tells who paid loan on time, who is safe to give loan again, and which houses to visit today. I built this from a real problem I saw in my office work.
+﻿# \# FieldMitra AI - Field Officer Helper
 
-How to run:
-python -m streamlit run app.py
+# Built for field officers who cannot type easily.
+
+# 
+
+# Problem: Officers need to check loan trust score quickly in field.
+
+# Solution: Voice Input + Trust Score + Pending List
+
+# 
+
+# Tech: Python, Streamlit
+
+# Run: pip install -r requirements.txt
+
+# Then: streamlit run app.py
+
+# 
+
+# Features: 6 Customers, Voice Input, Trust Score, Pending Tracking
+
+# Built by MD Subhan - Aspiring Forward Deployed Engineer
+
